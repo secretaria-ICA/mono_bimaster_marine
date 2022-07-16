@@ -7,7 +7,7 @@
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
-- [Link para o código](https://github.com/marineche######).
+- [Link para o código](https://github.com/marineche/mono_bimaster_marine/blob/d8d35251846415fa649a3b53bdb34ead4c148d4a/previsao_cancelamentos_hoteis.ipynb).
 ---
 
 
