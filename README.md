@@ -48,3 +48,10 @@ Se quiséssemos fazer uma classificação no tempo/sazonal, então a separação
 Os dados fornecidos por essa base de dados são de classificação supervisionada. Contém informações de reserva para um City Hotel e um Resort Hotel, como e quando a reserva foi feita, número de hóspedes, quantas vagas de estacionamento foram requeridas, dentre outras informações.
 Os algoritmos de regressão logística como KNN, Decision Tree, Random Forest, SVC, SGD e Ridge Classifier são usados para lidar com esse modelo de classificação supervisionado. Dentre esses algoritmos, o que teve o melhor desempenho em relação à precisão foi a Árvore de Decisão e Random Forest.
 
+Matrícula: 201.110.029
+
+Pontifícia Universidade Católica do Rio de Janeiro
+
+Curso de Pós Graduação *Business Intelligence Master*
+
+
