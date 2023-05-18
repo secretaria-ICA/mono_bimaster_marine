@@ -1,4 +1,4 @@
-# Previsao_de_Cancelamentos_em-Hoteis
+# Previsao_de_Cancelamentos_em_Hoteis
 
 #### Aluno: [Marine Patricia Chevallier] (https://github.com/marineche)
 #### Orientador: [Dr. Leonardo Alfredo Forero Mendoza] (https://github.com/leofome8)
